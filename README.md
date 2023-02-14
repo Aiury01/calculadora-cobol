@@ -1,5 +1,5 @@
-# calculadora-cobol
-uma simples calculadora cobol
+# calculadora-cobol/cobol calculator
+uma simples calculadora cobol/a simple cobol calculator
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. CALC.
